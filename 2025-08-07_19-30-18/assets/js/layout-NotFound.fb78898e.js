@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[546],{379:function(e,t,n){"use strict";n.r(t);var s=n(25),c={created(){s.k||this.$router.replace("/")}},r=n(1),a=Object(r.a)(c,(function(){return(0,this._self._c)("div",{staticClass:"theme-container"})}),[],!1,null,null,null);t.default=a.exports}}]);
